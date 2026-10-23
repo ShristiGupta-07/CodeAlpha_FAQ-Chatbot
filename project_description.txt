@@ -1,0 +1,30 @@
+PROJECT TITLE: FAQ CHATBOT USING NLP
+
+Objective:
+To develop a simple chatbot that understands user questions and returns the most relevant answer from a predefined FAQ dataset.
+
+Programming Language:
+Python
+
+Libraries:
+Flask, NLTK, Scikit-learn
+
+Frontend:
+HTML, CSS, JavaScript
+
+Core Technique:
+TF-IDF Vectorization + Cosine Similarity
+
+Key Features:
+1. FAQ question-answer database.
+2. NLP preprocessing using NLTK.
+3. Similarity-based question matching.
+4. Automatic best-answer selection.
+5. Interactive web chat interface.
+6. Match confidence display.
+
+Challenges:
+Handling different ways of asking the same question and deciding when a question does not have a sufficiently close FAQ match.
+
+Outcome:
+A lightweight, explainable FAQ chatbot that can be customized for a product, college, website, or organization.
